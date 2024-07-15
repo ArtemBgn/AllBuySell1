@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AllBuySell</string>
+    <!-- region Home Page -->
+    <string name="home_page_bs_image_description">Емблема магазину</string>
+    <string name="home_page_greeting">Buy and sell everything!</string>
+    <string name="home_page_name_button_entry">Вхід</string>
+    <string name="free_product">Безкоштовні</string>
+    <string name="kids_product">Дитячі товари</string>
+    <string name="clothes_product">Одяг</string>
+    <string name="home_product">Дім і сад</string>
+    <string name="cars_product">Автотовари</string>
+    <string name="mobile_product">Електроніка</string>
+    <string name="all_product">Всі товари</string>
+
+    <!-- endregion -->
+
+    <!-- region Kids Page -->
+    <string name="free_product_name">Бkjkjgkjhgkjhgі</string>
+    <!-- endregion -->
+
+</resources>

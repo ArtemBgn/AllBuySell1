@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="_fon_text_and_all">#AAAFFF</color>
+    <color name="_fon_header">#0815E5</color>
+    <color name="_fon_images">#849EFF</color>
+    <color name="_fon_json">#F3D404</color>
+</resources>
